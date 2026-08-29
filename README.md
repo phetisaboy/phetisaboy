@@ -1,5 +1,13 @@
-## Hi there 👋
 
+Hi, I'm Aboderin Semilore Gold 👋
+
+- 🎓 Cybersecurity student at Federal University of Technology
+- 📚 Starting the Google Cybersecurity Professional Certificate
+- 🔐 Learning penetration testing fundamentals — beginning with networking, Linux, and Python
+- 🎯 Getting started with hands-on practice on HackTheBox Academy
+- 🌱 Documenting what I learn as I go
+
+Feel free to connect or follow my progress!
 <!--
 **phetisaboy/phetisaboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
