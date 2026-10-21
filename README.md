@@ -1,24 +1,24 @@
+# Hi, I'm Aboderin Semilore Gold 👋
+**aka phetboy** | Cybersecurity student | Aspiring web pentester
 
-Hi, I'm Aboderin Semilore Gold 👋
-
+## 🎯 What I'm focused on
 - 🎓 Cybersecurity student at Federal University of Technology
-- 📚 Starting the Google Cybersecurity Professional Certificate
-- 🔐 Learning penetration testing fundamentals — beginning with networking, Linux, and Python
-- 🎯 Getting started with hands-on practice on HackTheBox Academy
-- 🌱 Documenting what I learn as I go
+- 📚 Working through the Google Cybersecurity Professional Certificate
+- 🌐 Learning web application penetration testing from the ground up
+- 🏆 Long-term goal: Burp Suite Certified Practitioner (BSCP)
+- 🧪 Hands-on practice on HackTheBox Academy
 
-Feel free to connect or follow my progress!
-<!--
-**phetisaboy/phetisaboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills I'm building
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![Networking](https://img.shields.io/badge/Networking-black)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-black)
+![Kali](https://img.shields.io/badge/Kali_Linux-black?logo=kalilinux)
 
-Here are some ideas to get you started:
+## 🧑‍💻 Currently doing
+- Cybersecurity and ethical hacking internships (remote)
+- Practicing recon and footprinting on my own domain
+- Documenting what I learn as I go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's connect
+Feel free to follow my progress or reach out. I'm always happy to learn from others in the field.
