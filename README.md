@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a cybersecurity student at the **Federal University of Technology** with a focus on **web application security**. I learn by doing: building labs, breaking them legally, and writing down what I find. My long-term goal is to become a professional penetration tester.
+I'm a cybersecurity student focused on **web application security**. I learn by doing: building labs, breaking them legally, and writing down what I find. My long-term goal is to become a professional penetration tester.
 
 ## 🎯 Current Focus
 
@@ -25,9 +25,8 @@ I'm a cybersecurity student at the **Federal University of Technology** with a f
 |---|---|
 | 🔐 **Web Pentesting** | Learning vulnerabilities and exploitation from the ground up |
 | 🧪 **Hands-on Labs** | HackTheBox Academy and practical challenges |
-| 🌐 **Recon & Footprinting** | Practicing on my own domain in a safe, authorized setup |
+| 🌐 **Recon & Footprinting** | Practicing safely in authorized lab environments |
 | 🎓 **Certifications** | Google Cybersecurity Certificate, working toward BSCP |
-| 💼 **Experience** | Remote cybersecurity and ethical hacking internships |
 
 ## 📚 Learning
 
@@ -43,44 +42,39 @@ I'm a cybersecurity student at the **Federal University of Technology** with a f
 
 </div>
 
-## 🗺️ Roadmap
+## 🗺️ My Roadmap
 
-> From beginner to professional web penetration tester. I update this as I progress.
+> My path from student to professional penetration tester. I tick things off as I go.
 
-### 🟢 Stage 1: Foundations
-- [x] Cybersecurity fundamentals (Google Cybersecurity Certificate, Course 1)
-- [x] Networking: *Connect and Protect: Networks and Network Security*
-- [x] Set up GitHub portfolio to document my journey
-- [ ] Finish the Google Cybersecurity Professional Certificate (9 courses)
-- [ ] Linux command line and system basics
-- [ ] Python fundamentals and scripting for security
+### 🟢 Stage 1: Cybersecurity Foundations *(in progress)*
+- [x] Cybersecurity fundamentals
+- [x] Networking fundamentals
+- [x] Set up my GitHub portfolio
+- [ ] Finish the Google Cybersecurity Professional Certificate
 
-### 🔵 Stage 2: Web Fundamentals
-- [ ] How the web works (HTTP/HTTPS, cookies, sessions, APIs)
-- [ ] HTML, JavaScript and basic backend concepts
-- [ ] OWASP Top 10 theory
-- [ ] OSINT, recon and footprinting (practicing on my own domain)
+### 🔵 Stage 2: Python
+- [ ] Learn Python from scratch
+- [ ] Build small security scripts to practice
 
-### 🟣 Stage 3: Hands-on Practice
+### 🟣 Stage 3: Ethical Hacking Skills
+- [ ] Complete a full ethical hacking course
+- [ ] Learn OSINT, recon and footprinting
+- [ ] Learn the OWASP Top 10
+
+### 🟠 Stage 4: Hands-on Practice
 - [ ] HackTheBox Academy modules
-- [ ] Practice labs: Juice Shop, DVWA, TryHackMe
-- [ ] Tools: Nmap, ffuf/gobuster, SQLmap
-- [ ] Publish lab and CTF write-ups on GitHub
+- [ ] Practice labs and CTFs
+- [ ] Publish write-ups of what I learn
 
-### 🟠 Stage 4: Web Pentesting Mastery
-- [ ] PortSwigger Web Security Academy: Apprentice labs
-- [ ] PortSwigger Web Security Academy: Practitioner labs
+### 🔴 Stage 5: Burp Suite Certified Practitioner (BSCP)
+- [ ] Web Security Academy labs
 - [ ] Master Burp Suite
-- [ ] Mystery labs without hints and timed practice
+- [ ] Earn BSCP
 
-### 🔴 Stage 5: Certification
-- [ ] Burp Suite Certified Practitioner (BSCP), target: age 19
-- [ ] Later: eJPT, CBBH, OSCP
-
-### 🏁 Stage 6: Career Goals
+### 🏁 Stage 6: Career
 - [ ] Land a professional penetration testing role
-- [ ] Study cybersecurity abroad through a scholarship
-- [ ] Expand into cloud pentesting as a second track
+- [ ] Add more certifications
+- [ ] Expand into cloud pentesting
 
 ## 📊 GitHub Stats
 
