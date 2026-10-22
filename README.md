@@ -29,7 +29,7 @@ I'm a cybersecurity student at the **Federal University of Technology** with a f
 | 🎓 **Certifications** | Google Cybersecurity Certificate, working toward BSCP |
 | 💼 **Experience** | Remote cybersecurity and ethical hacking internships |
 
-## 🛠️ Tech & Tools
+## 📚 Learning
 
 <div align="center">
 
